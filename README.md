@@ -23,7 +23,9 @@ Portfolio: Coming Soon
 
 Email: mdahanafatifs@gmail.com
 
-Skills:  HTML / CSS / JS/ TAILWINDCSS / REACT / DAISY UI / MONGODB /FIREBASE NODEJS/ WORPRESS / ELEMENTOR / PLUGIN
+[Skills:  HTML / CSS / JS/ TAILWINDCSS / REACT / DAISY UI / MONGODB /FIREBASE NODEJS/ WORPRESS / ELEMENTOR / PLUGIN
+](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 - 🔭 I’m currently working on https://rosa-bd.com/ 
 - 🌱 I’m currently learning Javascript 
