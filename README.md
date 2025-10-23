@@ -1,16 +1,48 @@
-## Hi there 👋
+![Wordpress & Fronted Developer](https://media.licdn.com/dms/image/v2/D5616AQHLDlIvoBdIug/profile-displaybackgroundimage-shrink_200_800/B56ZoRp0wqJYAU-/0/1761232769124?e=1762992000&v=beta&t=m3FTQTFi_OPMvBdv5ptSSvlL1VhYZlXvNLbpc5DI7RE)
+### Hi there 👋, I'am MD Ahanaf Atif
+#### Wordpress & Fronted Developer
+
+Hi there! 👋 I’m MD Ahanaf Atif, a passionate WordPress & Frontend Developer who loves turning creative ideas into fully functional, responsive, and user-friendly websites.
+
+💻 I specialize in:
+
+WordPress Theme & Plugin Development
+
+Elementor & Custom Gutenberg Blocks
+
+Frontend Development with HTML5, CSS3, JavaScript (ES6+), React, TailwindCSS, DaisyUI
+
+Firebase Authentication & Dynamic Web Apps
+
+🚀 I enjoy solving real-world problems with clean, efficient code and continuously learning new technologies to improve my craft.
+
+📫 Let’s connect:
+
+Portfolio: Coming Soon
+
+Email: mdahanafatifs@gmail.com
+
+Skills:  HTML / CSS / JS/ TAILWINDCSS / REACT / DAISY UI / MONGODB /FIREBASE NODEJS/ WORPRESS / ELEMENTOR / PLUGIN
+
+- 🔭 I’m currently working on https://rosa-bd.com/ 
+- 🌱 I’m currently learning Javascript 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about WordPress, Elementor, React, Tailwind CSS, Frontend Development, Firebase 
+- 📫 How to reach me: 💌 Ping me anytime: mdahanafatifs@gmail.com  – I promise I don’t bite! 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: ⚡ Fun fact: I turn coffee ☕ into clean code 💻 
 
 
-**AhanafAtif40/AhanafAtif40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhanafAtif40)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/md-ahanaf-atif-18001a319/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahanaf.atif.900)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ahanaf.atif.900//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/md_ahanaf56755)  
 
-Here are some ideas to get you started:
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhanafAtif40)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhanafAtif40)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhanafAtif40&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=AhanafAtif40)  
+
+
