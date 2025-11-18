@@ -1,4 +1,4 @@
-![Wordpress & Fronted Developer](https://media.licdn.com/dms/image/v2/D5616AQHLDlIvoBdIug/profile-displaybackgroundimage-shrink_200_800/B56ZoRp0wqJYAU-/0/1761232769124?e=1762992000&v=beta&t=m3FTQTFi_OPMvBdv5ptSSvlL1VhYZlXvNLbpc5DI7RE)
+https://media.licdn.com/dms/image/v2/D5616AQHLDlIvoBdIug/profile-displaybackgroundimage-shrink_350_1400/B56ZoRp0wqJYAY-/0/1761232769124?e=1764806400&v=beta&t=jTTPDu3ehCT8RVIIEwtdlw9OIYyJitNu78QZUg37gS0
 ### Hi there 👋, I'am MD Ahanaf Atif
 #### Wordpress & Fronted Developer
 
